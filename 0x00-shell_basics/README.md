@@ -1,1 +1,1 @@
-pwd prints the path to the working directory
+ls displays the content lists of the current directory
