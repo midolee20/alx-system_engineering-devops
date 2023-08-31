@@ -1,1 +1,1 @@
-ls displays the content lists of the current directory
+changes the working directory to the user’s home directory
