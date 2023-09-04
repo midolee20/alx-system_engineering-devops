@@ -1,1 +1,1 @@
-output redirection
+overwriting files with output redirection
