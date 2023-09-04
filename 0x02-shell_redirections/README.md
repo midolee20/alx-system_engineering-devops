@@ -1,1 +1,1 @@
-script to display a confused smiley
+ shell script that prints confused emoji
