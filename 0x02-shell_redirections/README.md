@@ -1,1 +1,1 @@
-overwriting files with output redirection
+duplicate last line
