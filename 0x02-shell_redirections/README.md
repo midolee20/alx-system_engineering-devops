@@ -1,1 +1,1 @@
-display files
+display two directories
