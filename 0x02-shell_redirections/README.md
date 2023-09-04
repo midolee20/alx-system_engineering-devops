@@ -1,1 +1,1 @@
-display two directories
+display last 10 lines of a file
