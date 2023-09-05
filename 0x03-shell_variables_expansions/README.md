@@ -1,1 +1,1 @@
-print all local variables
+create local variable
