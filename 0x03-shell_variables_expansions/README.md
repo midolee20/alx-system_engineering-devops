@@ -1,1 +1,1 @@
-script that prints global variables
+print all local variables
