@@ -1,1 +1,1 @@
-true knowledge
+binary to decimal
