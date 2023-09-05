@@ -1,0 +1,2 @@
+#!/bin/bash
+[ -z "$TRUEKNOWLEDGE" ] | ((result = 128 + TRUEKNOWLEDGE)) | [ -n "$TRUEKNOWLEDGE" ]
